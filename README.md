@@ -1,11 +1,13 @@
 <h1>IBM-Data-Analyst-Capstone-Project</h1>
 <br>
-<h5>
-Project Presentation Link -   https://github.com/rishirajcode/IBM-Data-Analyst-Capstone-Project/blob/main/final_presentation/DataAnalystPresentation.pdf
-![image](https://github.com/user-attachments/assets/fd2b95c8-3ac5-4a27-a0d4-488499a9e1cf)
-
-Welcome to my data analytics capstone project on IBM!  
-</h5>
+<b>
+Project Presentation Link - <a href=" https://github.com/rishirajcode/IBM-Data-Analyst-Capstone-Project/blob/main/final_presentation/DataAnalystPresentation.pdf" rel="nofollow">🔗</a> 
+</b>  
+ 
+<!-- ![image](https://github.com/user-attachments/assets/fd2b95c8-3ac5-4a27-a0d4-488499a9e1cf) -->
+<be></be>
+<h3> Welcome to my data analytics capstone project on IBM!  
+</h3>
 <br>
 <p>
 In this project, assuming myself as the Data Analyst for the company, I undertook the tasks of collecting data from multiple sources, performing exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, creating charts and plots to visualize data, and building an interactive dashboard using IBM Cognos Analytics.
