@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/35bd9705-9e71-4368-9e39-f0eb176bbf38)
-
 <h1>IBM Data Analyst Capstone Project</h1>
+
+![image](https://github.com/user-attachments/assets/a49bcec5-fe4c-45a8-a850-f875c2f513af)
+<p></p>
 
 ![image](https://github.com/user-attachments/assets/f07305ec-24b5-4aff-b48a-853422325f0f)
 
@@ -28,13 +29,21 @@ For task 5, we will employ Cognos/Google Looker Studio to create interactive das
 
 <b>Task 6</b>
 At the end of the project,I prepared a presentation of my data analysis report, with an executive summary for the various stakeholders in the organization including Human Resource and IT Head. <br>
+<br>
+
 <b>
-Project Presentation Link - <a href= "https://github.com/rishirajcode/IBM-Data-Analyst-Capstone-Project/blob/main/final_presentation/DataAnalystPresentation.pdf">↗️</a> 
+Project Presentation Link - <a href= "https://github.com/rishirajcode/IBM-Data-Analyst-Capstone-Project/blob/main/final_presentation/DataAnalystPresentation.pdf">Link↗️</a> 
 </b>
+<br>
+<br>
+
 ![image](https://github.com/user-attachments/assets/150f40de-eb24-461c-89af-4e468380a657)
 
+
+
+![image](https://github.com/user-attachments/assets/66c57fed-1eae-4b87-8597-1a392b8517ed)
+
 <br>
-![image](https://github.com/user-attachments/assets/e68e98a8-b637-49e1-b777-46b1060164d2)
 <br>
 
 <P>Thanks for visiting</P>
