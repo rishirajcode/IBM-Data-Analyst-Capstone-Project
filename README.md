@@ -1,7 +1,7 @@
 <h1>IBM-Data-Analyst-Capstone-Project</h1>
 <br>
 <b>
-Project Presentation Link - <a href=" https://github.com/rishirajcode/IBM-Data-Analyst-Capstone-Project/blob/main/final_presentation/DataAnalystPresentation.pdf" rel="nofollow">🔗</a> 
+Project Presentation Link - <a href= "https://github.com/rishirajcode/IBM-Data-Analyst-Capstone-Project/blob/main/final_presentation/DataAnalystPresentation.pdf">↗️</a> 
 </b>  
  
 <!-- ![image](https://github.com/user-attachments/assets/fd2b95c8-3ac5-4a27-a0d4-488499a9e1cf) -->
